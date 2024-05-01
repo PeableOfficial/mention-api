@@ -4,14 +4,15 @@ Welcome to the Github Mention API! This API allows you to interact with the soci
 
 ## Routes 🚀
 
-- **/api/blocked**: Manage blocked users.
-- **/api/bookmarks**: Access bookmarks.
-- **/api/hashtags**: Explore hashtags.
-- **/api/media**: Handle media.
-- **/api/messages**: Send and receive messages.
-- **/api/posts**: Create, edit, and delete posts.
-- **/api/search**: Search functionality.
-- **/api/users**: Manage user accounts.
+- `/api/blocked`: Manage blocked users.
+- `/api/bookmarks`: Access bookmarks.
+- `/api/hashtags`: Explore hashtags.
+- `/api/media`: Handle media.
+- `/api/messages`: Send and receive messages.
+- `/api/posts`: Create, edit, and delete posts.
+- `/api/search`: Search functionality.
+- `/api/users`: Manage user accounts.
+
 
 ## Usage 🔧
 
@@ -35,6 +36,6 @@ For detailed documentation on each route and its parameters, please refer to the
 
 ## Support 🤝
 
-If you have any questions, concerns, or feedback regarding the Github Mention API, please don't hesitate to contact our support team at <support@githubmention.com>.
+If you have any questions, concerns, or feedback regarding the Github Mention API, please don't hesitate to contact our support team at <support@mention.earth>.
 
-[link-to-documentation]: https://githubmention.com/docs
+[link-to-documentation]: https://about.mention.earth/developers/docs
